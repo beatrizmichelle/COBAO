@@ -1,0 +1,15 @@
+#tablas{
+	margin: 150px auto;
+	width: 600px
+}
+
+table{
+	background-color: green;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+}
+.titulos{
+	font-size: 35px;
+	text-align: center;
+	padding:60px 0px;
